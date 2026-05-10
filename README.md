@@ -4,7 +4,7 @@ Greenswip / Revati Technologies submission.
 
 ROS 2 Jazzy + Gazebo Harmonic. An Ackermann-steered robot uses a camera to find a red box among 3 decoys (sphere, capsule, cylinder) and drives to it.
 
-📹 [Demo video] : 
+📹 [Demo video] : https://drive.google.com/drive/folders/1-RzxqcahzAISCw-p1P6YWTaRtN6bFpO9
 
 ## How it works
 
